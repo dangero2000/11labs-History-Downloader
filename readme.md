@@ -38,7 +38,7 @@ pip install requests
 Finally, clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/elevenlabs-history-downloader.git
+git clone https://github.com/dangero2000/11labs-History-Downloader
 cd 11labs-history-downloader
 ```
 
